@@ -1,0 +1,37 @@
+* Program :- It is a set of Instruction.
+* Software :- A set of programs is called Software.
+
+* There are 2 type of Software.
+1} System Software :- windows as in Computer, Android as in Phone.
+2} Application Software :- Amazon, Flipkart, Ola etc.
+
+
+* Software Development Lifecycle {SDLC}.
+1} Requirment 
+2} Analysis
+3} Designing
+4} Development
+5} Testing
+6} Deloyment
+7} Maintances
+  
+* Algorithms :- It is a process of following step-by-step is called Algorithm.
+
+* Creating an Algormiths of making a Tea.
+Steps :-
+	step 1} Start a gas.
+	step 2} Take an inputs(container, Water, Tea, Sugar, etc.
+	step 3} Process(Boiling).
+	step 4} Check( If a tea is good then go to next step else go to step 1).
+	step 5} Serve.
+	step 6} Stop.
+* Create an algormiths to take 2 inputs and ADD them.
+Steps :-
+ 	step 1} start. 
+	step 2} Take an inputs from the user.
+	step 3} Check the value are in integer or in decimal (If the value are in integer then go to next step else go to step 2).
+	step 4} ADD the number (number are in integer form). 
+	step 5} Output. 
+	step 6} Stop.
+
+* Flowcharts :- It is a pictorial representation of Algorithms.
