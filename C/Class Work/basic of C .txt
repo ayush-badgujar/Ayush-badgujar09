@@ -1,0 +1,39 @@
+* Datatypes:-
+
+Type 				Size					Format-Specifers
+
+int				4bytes 				%d
+char 				1bytes				%c
+float				4bytes				%f
+double			8bytes				%if
+================================================================================================
+* Optional
+
+Long 
+void - empty database
+String - it is collection of character.
+E.g :- char name (s)		%s
+=================================================================================================
+* Variable :- it is name as memory location,which store value different type.
+--Rule for declaring the varibles.
+
+1}A variable name should be start with digit 
+		Legal:- a1 		illegal:-1a
+2}There should be no blank space.
+		Legal:- firstname 	illegal:- first name
+3}No special charters allow (expect= _ $)
+		Legal:-first_name	illgal:-first@name
+3}Variable name should be sensitive.
+	FOr example :- a is different, A is a different
+   Because :- it follow ASCII rule
+		 - American Standard Code for Information Interchnge
+=================================================================================================
+* C Programming 
+C is a programming language developed by Dennis Ritchie in the year 1972 at AT & T Labs.
+
+Before C it was BPCL {Basic Programming Computer Language}.
+
+In C,there are 32 resered keywords
+ -printf:- It is use to display data on the screen(output).
+ -Scanf:- It is use tp accept data on the screen(input).
+ -Compiler will always look for the main method first.
