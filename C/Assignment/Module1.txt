@@ -1,0 +1,14 @@
+1 }   What  is Software ? What is Software Engineering ?
+--> Software is the language of computer. It is a collection of computer program and related data that provide the instructionfor telling  a computer what to do and How to do, Is called Software.
+--> Software :- A set of program containig instruction which provided desired functionally.
+--> Engineering :- A process of design and building something that ensure particular purpose.
+--> Software Engineering :- A systematic approach to design, development, operations, and maintenance of the software system is called Software Engineering.
+
+2 } Explain the type of Software.
+--> There is 2 types of Software. i)System or OS, ii) Applications Software.
+--> i) System is provides the basic function for the computer usage and help to run the computer and softwar. For example Linux, Windows, Macos, Android, IOS.
+--> ii) Apllications is the general designation of the computer program for  the preforming user task. Application that run on the mobile. Ex - Instagram, Whatsapp, Destop app like Microsoft Office suit
+         which include Word, Excel and power point.
+3 } What is Flowchart ?
+--> A Flowchart is a graphical representation of the operatcions invoved in a data process system.Symbols are used to reprensent particuar operations or data. 
+  
