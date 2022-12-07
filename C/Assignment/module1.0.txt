@@ -1,0 +1,21 @@
+	3} What is SDLC? Expalin each  phase of SDLC.
+	-> SDLC is a structure imposed on the development of a software product that define the process for planning,implement, testing, documentations, deployment, amd ongonig maintance and support. There are a number of different development models.
+	Phase of SDLC :-
+		|==========================================================================================|
+		| 	Requirement Collection/Gathering		|	Establish Customer Needs							|
+		|==========================================================================================|
+		|	Analaysis					|	Model And Specify the requirments -What||					|
+		|==========================================================================================|
+		|	Design						|	Model And Specify a solution -Why						|
+		|==========================================================================================|
+		|	Implementations				|	Construction a solution against the requrements				|
+		|==========================================================================================|
+		|	Testing						|	Validate the solution against the requirments 				|
+		|==========================================================================================|
+		|	Maintanance					|	Repair defects and adapt the soluction to the new requriments 		|
+		|==========================================================================================|
+
+
+	4}What is a Data flow diagram (DND) ?
+          -> A Data Flow Diagram  is a traditional  way to visualize the information flows with in the system. A neat and clear DFD can depict a good amount of the system required graphically. It can be manual,automated, or a combination.
+ 
